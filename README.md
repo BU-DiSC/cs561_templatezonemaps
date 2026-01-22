@@ -55,4 +55,4 @@ For example, to run point queries on an input file:
 ## Contact - Spring 2026
 
 If you have any questions please feel free to see Teona or Can in office hours, or
-email your queries at teona@bu.edu.
+email your queries at [teona@bu.edu](mailto:teona@bu.edu?subject=[CS561]%20Project%200).
