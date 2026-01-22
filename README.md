@@ -52,7 +52,7 @@ For example, to run point queries on an input file:
 ./main ./data_1000000-elems_0-kperct_5-lperct_1seed1611707662.dat test_pq
 ```
 
-## Contact
+## Contact - Spring 2026
 
-If you have any questions please feel free to see Aneesh in office hours, or
-email your queries at aneeshr@bu.edu.
+If you have any questions please feel free to see Teona or Can in office hours, or
+email your queries at teona@bu.edu.
